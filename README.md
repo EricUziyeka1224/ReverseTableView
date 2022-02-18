@@ -86,10 +86,6 @@ github "marty-suzuki/ReverseExtension"
 
 Make sure to add `ReverseExtension.framework` to "Linked Frameworks and Libraries" and "copy-frameworks" Build Phases.
 
-## Special Thanks
-
-[TouchVisualizer](https://github.com/morizotter/TouchVisualizer) (Created by [@morizotter](https://github.com/morizotter))
-
 ## License
 
 ReverseExtension is available under the MIT license. See the LICENSE file for more info.
